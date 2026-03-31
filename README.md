@@ -1,0 +1,1 @@
+# Engenharia-de-prompt-e-aplicacoes-em-IA-Professora-Kadidja
