@@ -1,4 +1,4 @@
-Relatório de Missões: Automação e IA (ADS)
+# Relatório de Missões: Automação e IA (ADS)
 Este repositório contém o desenvolvimento das Missões 01 a 03 da disciplina, utilizando ferramentas de Inteligência Artificial para auxílio na codificação e refatoração.
 
 📁 Estrutura do Projeto
